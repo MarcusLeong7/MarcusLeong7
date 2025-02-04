@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/MarcusLeong7/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{MarcusLeong7}"/>
+</a>
